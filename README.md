@@ -18,11 +18,11 @@ Used for opponent threat analysis.
 Used for player comparisons across key performance metrics.
 
 ### Cumulative Line Charts
-Used to track running totals across a season — **EPL 2025/26**.
+Used to track running totals across a season -- **EPL 2025/26**.
 **Case study:** Manchester United vs. Manchester City running points/goals totals.
 
 ### Match Analysis Visuals
 Pass heat maps, pass maps, passing networks, and shot maps used for individual match analysis.
 
 ## Purpose
-This repo is primarily a learning log — a way to practice translating raw football data into clear, insightful visuals. Expect ongoing additions as I explore new chart types and case studies.
+This repo is primarily a learning log--a way to practice translating raw football data into clear, insightful visuals. Expect ongoing additions as I explore new chart types and case studies.
